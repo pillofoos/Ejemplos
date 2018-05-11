@@ -1,5 +1,5 @@
 #Archivo: archivos.py
-#Descripcion: Ejemplo en el que se muestra la utilizacion de archivos
+#Descripcion: Ejemplo en el que se muestra la utilizacion de archivos de texto
 #
 
 def crear_archivo():
